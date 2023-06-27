@@ -3,3 +3,6 @@ testingstuff.ipynb
 training.1600000.processed.noemoticon.csv.zip
 tweets_vectors.pkl
 user_tweets.pkl
+model_checkpoint.h5
+torch_test.ipynb
+serialized_data.zip
