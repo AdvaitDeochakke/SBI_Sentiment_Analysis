@@ -16,7 +16,6 @@ pip install -r requirements.txt
 To run the application, you must first unzip the snetiment_analzyer.zip file. Then in the analysis.py file change the path of 
 ```
 model = keras.models.load_model(r'(your path)/snetiment_analzyer.h5')
-
 ```
 
 After installing the dependencies, you can run the application by running the following command in your terminal:
