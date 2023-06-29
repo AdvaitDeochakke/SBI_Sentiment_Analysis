@@ -6,3 +6,4 @@ user_tweets.pkl
 model_checkpoint.h5
 torch_test.ipynb
 serialized_data.zip
+snetiment_analzyer.h5
