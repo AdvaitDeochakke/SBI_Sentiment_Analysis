@@ -12,3 +12,9 @@ Advait Deochakke - 20BCE1143
 Vedant Bisen - 20BLC1044  
 Kshitija Srivastava - 20BLC1075
 
+# Assignments  
+Should all be in their respective folders, eg. /Advait_Deochakke_Assignments
+
+## Other notes  
+• preprocess_dataset exists in both .csv and .zip for convenience, I need to delete one of them later. Probably the .csv  
+• senti_training_final.pdf is the colab notebook exported out, I had the 12.1 cuda locally and cba to get keras compatible one (used torch nightly earlier)  
