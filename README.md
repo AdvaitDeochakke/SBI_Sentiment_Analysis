@@ -4,7 +4,8 @@ final model file in -> snetiment_analzyer.zip
 model training in -> model_training_senti.ipynb  
 Project report in -> Report.pdf  
 Dataset used -> Senti140 Dataset (kaggle link - https://www.kaggle.com/datasets/kazanova/sentiment140)  
-
+How to use -> how_to_setup_model.ipynb  
+Flask app -> /Flask-Application
 
 # Team Members  
 Advait Deochakke - 20BCE1143   
