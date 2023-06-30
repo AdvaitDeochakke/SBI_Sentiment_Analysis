@@ -5,8 +5,9 @@ model training in -> model_training_senti.ipynb
 Project report in -> Report.pdf  
 Dataset used -> Senti140 Dataset (kaggle link - https://www.kaggle.com/datasets/kazanova/sentiment140)  
 How to use -> how_to_setup_model.ipynb  
-Flask app -> /Flask-Application
-
+Flask app -> /Flask-Application  
+Video Demo -> Demo_Project.mkv
+  
 # Team Members  
 Advait Deochakke - 20BCE1143   
 Vedant Bisen - 20BLC1044  
