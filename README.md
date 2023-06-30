@@ -18,3 +18,4 @@ Should all be in their respective folders, eg. /Advait_Deochakke_Assignments
 ## Other notes  
 • preprocess_dataset exists in both .csv and .zip for convenience, I need to delete one of them later. Probably the .csv  
 • senti_training_final.pdf is the colab notebook exported out, I had the 12.1 cuda locally and cba to get keras compatible one (used torch nightly earlier)  
+• keras_test.ipynb is the file which I was originally doint the above in, before I realized 3 hours had passed and I was halfway through first iter (there just for evidence, redudnant in reality)
