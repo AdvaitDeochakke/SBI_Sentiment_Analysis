@@ -6,7 +6,7 @@ Project report in -> Report.pdf
 Dataset used -> Senti140 Dataset (kaggle link - https://www.kaggle.com/datasets/kazanova/sentiment140)  
 How to use -> how_to_setup_model.ipynb  
 Flask app -> /Flask-Application  
-Video Demo -> Demo_Project.mkv
+Video Demo available at -> https://youtu.be/Wj2Oa6Sn5lw (title : Demo For SBInternz Project )
   
 # Team Members  
 Advait Deochakke - 20BCE1143   
